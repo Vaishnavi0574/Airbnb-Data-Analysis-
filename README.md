@@ -27,7 +27,7 @@ The dataset includes features like:
 
 ## Tools & Technologies
 - **Python**  
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `python`  
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn` 
 - **Jupyter Notebook**  
 
 ## Key Findings
